@@ -16,6 +16,7 @@
       nil  # lsp nix
       # openssh
       zola # ssg
+      delta
     ;
     # gui
     inherit (pkgs)
